@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>اتصل بنا - 2AC Collège</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="container navbar-container">
+            <div class="logo">
+                <div class="logo-icon">📚</div>
+                <div class="logo-text">
+                    <h1>2AC Collège</h1>
+                    <p class="tagline">منصة التعليم المتطورة</p>
+                </div>
+            </div>
+            <div class="nav-toggle" onclick="toggleMobileMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="about.html">حول التطبيق</a></li>
+                <li><a href="download.html">التحميل</a></li>
+                <li><a href="updates.html">التحديثات</a></li>
+                <li><a href="contact.html" class="active">اتصل بنا</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-background">
+            <div class="gradient-blob blob1"></div>
+            <div class="gradient-blob blob2"></div>
+            <div class="gradient-blob blob3"></div>
+        </div>
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-emoji">📞</div>
+                <h2 class="hero-title">اتصل بنا</h2>
+                <p class="hero-subtitle">نحن هنا للاستماع إلى آرائك واستفساراتك</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="features">
+        <div class="container">
+            <div class="section-header">
+                <h2>تواصل معنا</h2>
+                <p>لديك سؤال أو اقتراح؟ نحن في انتظارك</p>
+            </div>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; max-width: 1000px; margin: 0 auto;">
+                <!-- Contact Form -->
+                <div style="background: white; padding: 40px; border-radius: 15px; box-shadow: var(--shadow);">
+                    <h3 style="color: var(--primary-color); margin-bottom: 30px; font-size: 22px;">📝 نموذج التواصل</h3>
+                    <form onsubmit="handleContactSubmit(event)"
+                        style="display: flex; flex-direction: column; gap: 20px;">
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--text-dark); font-weight: 600;">اسمك:</label>
+                            <input type="text" placeholder="أدخل اسمك" required
+                                style="width: 100%; padding: 12px; border: 1px solid var(--border-color); border-radius: 8px; font-size: 16px; font-family: inherit;">
+                        </div>
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--text-dark); font-weight: 600;">البريد
+                                الإلكتروني:</label>
+                            <input type="email" placeholder="بريدك الإلكتروني" required
+                                style="width: 100%; padding: 12px; border: 1px solid var(--border-color); border-radius: 8px; font-size: 16px; font-family: inherit;">
+                        </div>
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--text-dark); font-weight: 600;">الموضوع:</label>
+                            <input type="text" placeholder="موضوع الرسالة" required
+                                style="width: 100%; padding: 12px; border: 1px solid var(--border-color); border-radius: 8px; font-size: 16px; font-family: inherit;">
+                        </div>
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--text-dark); font-weight: 600;">الرسالة:</label>
+                            <textarea placeholder="اكتب رسالتك هنا..." required
+                                style="width: 100%; padding: 12px; border: 1px solid var(--border-color); border-radius: 8px; font-size: 16px; font-family: inherit; resize: vertical; min-height: 150px;"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary" style="width: 100%;">إرسال الرسالة</button>
+                    </form>
+                </div>
+
+                <!-- Contact Info -->
+                <div style="display: flex; flex-direction: column; gap: 30px;">
+                    <!-- Phone -->
+                    <div
+                        style="background: white; padding: 30px; border-radius: 15px; box-shadow: var(--shadow); text-align: center;">
+                        <div style="font-size: 50px; margin-bottom: 15px;">📱</div>
+                        <h3 style="color: var(--primary-color); margin-bottom: 10px;">الهاتف</h3>
+                        <p style="color: var(--text-light);">+212 612 345 678</p>
+                    </div>
+
+                    <!-- Email -->
+                    <div
+                        style="background: white; padding: 30px; border-radius: 15px; box-shadow: var(--shadow); text-align: center;">
+                        <div style="font-size: 50px; margin-bottom: 15px;">📧</div>
+                        <h3 style="color: var(--primary-color); margin-bottom: 10px;">البريد الإلكتروني</h3>
+                        <p style="color: var(--text-light);">info@2accollege.com</p>
+                    </div>
+
+                    <!-- Address -->
+                    <div
+                        style="background: white; padding: 30px; border-radius: 15px; box-shadow: var(--shadow); text-align: center;">
+                        <div style="font-size: 50px; margin-bottom: 15px;">📍</div>
+                        <h3 style="color: var(--primary-color); margin-bottom: 10px;">العنوان</h3>
+                        <p style="color: var(--text-light);">الرباط، المغرب</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Social Media Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="section-header">
+                <h2>تابعنا على وسائل التواصل</h2>
+                <p>ابق على اتصال معنا للحصول على آخر الأخبار والتحديثات</p>
+            </div>
+
+            <div
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 30px; max-width: 800px; margin: 0 auto;">
+                <a href="#"
+                    style="background: white; padding: 40px; border-radius: 15px; box-shadow: var(--shadow); text-align: center; text-decoration: none; transition: all 0.3s ease;"
+                    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='var(--shadow-xl)'"
+                    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow)'">
+                    <div style="font-size: 60px; margin-bottom: 15px;">📘</div>
+                    <h3 style="color: var(--primary-color);">Facebook</h3>
+                    <p style="color: var(--text-light); font-size: 14px;">@2accollege</p>
+                </a>
+
+                <a href="#"
+                    style="background: white; padding: 40px; border-radius: 15px; box-shadow: var(--shadow); text-align: center; text-decoration: none; transition: all 0.3s ease;"
+                    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='var(--shadow-xl)'"
+                    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow)'">
+                    <div style="font-size: 60px; margin-bottom: 15px;">𝕏</div>
+                    <h3 style="color: var(--primary-color);">Twitter</h3>
+                    <p style="color: var(--text-light); font-size: 14px;">@2accollege</p>
+                </a>
+
+                <a href="#"
+                    style="background: white; padding: 40px; border-radius: 15px; box-shadow: var(--shadow); text-align: center; text-decoration: none; transition: all 0.3s ease;"
+                    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='var(--shadow-xl)'"
+                    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow)'">
+                    <div style="font-size: 60px; margin-bottom: 15px;">📷</div>
+                    <h3 style="color: var(--primary-color);">Instagram</h3>
+                    <p style="color: var(--text-light); font-size: 14px;">@2accollege</p>
+                </a>
+
+                <a href="#"
+                    style="background: white; padding: 40px; border-radius: 15px; box-shadow: var(--shadow); text-align: center; text-decoration: none; transition: all 0.3s ease;"
+                    onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='var(--shadow-xl)'"
+                    onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--shadow)'">
+                    <div style="font-size: 60px; margin-bottom: 15px;">▶️</div>
+                    <h3 style="color: var(--primary-color);">YouTube</h3>
+                    <p style="color: var(--text-light); font-size: 14px;">2AC Collège</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <h3>🎓 2AC Collège</h3>
+                    <p>منصة تعليمية متطورة لطلاب السنة الثانية إعدادي</p>
+                    <div class="social-links">
+                        <a href="#" class="social-icon">📱</a>
+                        <a href="#" class="social-icon">💬</a>
+                        <a href="#" class="social-icon">📧</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>الروابط السريعة</h4>
+                    <ul class="footer-links">
+                        <li><a href="index.html">الرئيسية</a></li>
+                        <li><a href="about.html">حول التطبيق</a></li>
+                        <li><a href="download.html">التحميل</a></li>
+                        <li><a href="contact.html">اتصل بنا</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>المساعدة</h4>
+                    <ul class="footer-links">
+                        <li><a href="#">الأسئلة الشائعة</a></li>
+                        <li><a href="#">سياسة الخصوصية</a></li>
+                        <li><a href="#">الشروط والأحكام</a></li>
+                        <li><a href="#">الدعم الفني</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>تحديثات</h4>
+                    <p>اشترك لتصل آخر الأخبار والتحديثات</p>
+                    <div class="newsletter">
+                        <input type="email" placeholder="بريدك الإلكتروني" class="newsletter-input">
+                        <button class="btn btn-primary btn-sm">اشترك</button>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 2AC Collège. جميع الحقوق محفوظة.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        function handleContactSubmit(event) {
+            event.preventDefault();
+            showToast('شكراً لتواصلك معنا! سيتم الرد عليك قريباً', 'success');
+            event.target.reset();
+        }
+    </script>
+</body>
+
+</html>
