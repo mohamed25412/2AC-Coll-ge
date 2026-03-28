@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "الجذور المربعة - ملخص شامل",
+        "subject": "الرياضيات",
+        "size": "1.2 MB",
+        "date": "2026-03-12",
+        "fileUrl": "lessons/math_roots.pdf"
+    },
+    {
+        "id": 2,
+        "title": "الهواء من حولنا - تمارين",
+        "subject": "الفيزياء",
+        "size": "2.1 MB",
+        "date": "2026-03-10",
+        "fileUrl": "lessons/physics_air.pdf"
+    },
+    {
+        "id": 3,
+        "title": "التفاعلات الكيميائية",
+        "subject": "الفيزياء",
+        "size": "1.5 MB",
+        "date": "2026-03-14",
+        "fileUrl": "lessons/chem_react.pdf"
+    }
+]
