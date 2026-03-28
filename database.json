@@ -1,16 +1,289 @@
 [
   {
     "title": "تقديم الأعداد الجذرية",
-    "subject": "الرياضيات",
+    "subject": "الرياضيات - الدورة 1",
     "icon": "fa-square-root-variable",
     "color": "#00d2ff",
-    "url": "downloads/math_lesson1.pdf" 
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%AA%D9%82%D8%AF%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D8%B0%D8%B1%D9%8A%D8%A9-%E2%80%8B%E2%80%8B%D9%84%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-2.pdf"
   },
   {
-    "title": "الهواء من حولنا",
-    "subject": "الفيزياء",
-    "icon": "fa-wind",
-    "color": "#ff007f",
-    "url": "https://example.com/physics_lesson.pdf"
+    "title": "العملیات على الأعداد الجذرية",
+    "subject": "الرياضيات - الدورة 1",
+    "icon": "fa-calculator",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D8%B0%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC1.pdf"
+  },
+  {
+    "title": "مجموع وفرق عددين جذريين",
+    "subject": "الرياضيات - الدورة 1",
+    "icon": "fa-plus-minus",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2019/11/cours-mat-2college-3.pdf"
+  },
+  {
+    "title": "جداء وخارج عددين جذريين",
+    "subject": "الرياضيات - الدورة 1",
+    "icon": "fa-divide",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%AC%D8%B0%D8%A7%D8%A1-%D9%88%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B9%D8%AF%D8%AF%D9%8A%D9%86-%D8%AC%D8%B0%D8%B1%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC3.pdf"
+  },
+  {
+    "title": "العمليات الأربع على الأعداد الجذرية",
+    "subject": "الرياضيات - الدورة 1",
+    "icon": "fa-table-cells",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D8%B0%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-1.pdf"
+  },
+  {
+    "title": "قوى العدد 10",
+    "subject": "الرياضيات - الدورة 1",
+    "icon": "fa-arrow-up-9-1",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%B9%D8%AF%D8%AF-10-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-1.pdf"
+  },
+  {
+    "title": "قوى عدد جذري",
+    "subject": "الرياضيات - الدورة 1",
+    "icon": "fa-superscript",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D9%82%D9%88%D9%89-%E2%80%8B%E2%80%8B%D8%B9%D8%AF%D8%AC%D8%B0%D8%B1%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-2.pdf"
+  },
+  {
+    "title": "المستقيمات الھامة في مثلث",
+    "subject": "الرياضيات - الدورة 1",
+    "icon": "fa-triangle-exclamation",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%DA%BE%D8%A7%D9%85%D8%A9-%D9%81%D9%8I-%D9%85%D8%AB%D9%84%D8%AB-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-1.pdf"
+  },
+  {
+    "title": "المستقيمات الموازية لأضلاع مثلث",
+    "subject": "الرياضيات - الدورة 1",
+    "icon": "fa-lines-leaning",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B2%D9%8A%D8%A9-%D9%84%D8%A3%D8%B6%D9%84%D8%A7%D8%B9-%D9%85%D8%AB%D9%84%D8%AB-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-1.pdf"
+  },
+  {
+    "title": "التماثل المحوري",
+    "subject": "الرياضيات - الدورة 1",
+    "icon": "fa-draw-polygon",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%AB%D9%84-%D8%A7%D9%84%D9%85%D8%AD%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-2.pdf"
+  },
+  {
+    "title": "الحساب الحرفي",
+    "subject": "الرياضيات - الدورة 2",
+    "icon": "fa-arrow-down-z-a",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D9%84%D8%AD%D8%B1%D9%81%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-2.pdf"
+  },
+  {
+    "title": "المعادلات",
+    "subject": "الرياضيات - الدورة 2",
+    "icon": "fa-equals",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%E2%80%8B%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-3.pdf"
+  },
+  {
+    "title": "التناسب",
+    "subject": "الرياضيات - الدورة 2",
+    "icon": "fa-percent",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D9%8AA%D9%86%D8%A7%D8%B3%D8%A8-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-1.pdf"
+  },
+  {
+    "title": "الدوال الخطية",
+    "subject": "الرياضيات - الدورة 2",
+    "icon": "fa-chart-line",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%AE%D8%B7%D9%8A%D8%A9-%E2%80%8B%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-1.pdf"
+  },
+  {
+    "title": "مبرهنة فيتاغورس",
+    "subject": "الرياضيات - الدورة 2",
+    "icon": "fa-vector-square",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D9%85-%D9%85%D8%A8%D8%B1%D9%87%D9%86%D8%A9-%D9%81%D9%8A%D8%AA%D8%A7%D8%BA%D9%88%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-1.pdf"
+  },
+  {
+    "title": "المتجهات والإزاحة",
+    "subject": "الرياضيات - الدورة 2",
+    "icon": "fa-arrow-trend-up",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D9%87%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A5%D8%B2%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-2.pdf"
+  },
+  {
+    "title": "الهرم والمخروط الدوراني والموشور القائم",
+    "subject": "الرياضيات - الدورة 2",
+    "icon": "fa-shapes",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D9%87%D8%B1%D9%85-%D9%88%D8%A7%D9%84%D9%85%D8%AE%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A7%D9%86%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%B4%D9%88%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-1.pdf"
+  },
+  {
+    "title": "الإحصاء",
+    "subject": "الرياضيات - الدورة 2",
+    "icon": "fa-chart-pie",
+    "color": "#00d2ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/%D8%AF%D8%B1%D8%B3-%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%E2%80%8B%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-%D9%80-%D9%86%D9%85%D9%88%D8%B0%D8%AC-2.pdf"
+  },
+  {
+    "title": "Expression de l’intensité",
+    "subject": "Français",
+    "icon": "fa-bolt",
+    "color": "#9d00ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/Expression-de-lintensite.pdf"
+  },
+  {
+    "title": "L’accord de l’adjectif",
+    "subject": "Français",
+    "icon": "fa-spell-check",
+    "color": "#9d00ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/Laccord-de-ladjectif.pdf"
+  },
+  {
+    "title": "Le discourses rapporté",
+    "subject": "Français",
+    "icon": "fa-comment-dots",
+    "color": "#9d00ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/Le-Discours-Rapporte.pdf"
+  },
+  {
+    "title": "La conjugaison",
+    "subject": "Français",
+    "icon": "fa-pen-clip",
+    "color": "#9d00ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/La-conjugaison.pdf"
+  },
+  {
+    "title": "Le champ lexical",
+    "subject": "Français",
+    "icon": "fa-book-atlas",
+    "color": "#9d00ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/Le-champ-lexical.pdf"
+  },
+  {
+    "title": "Le Discours indirect",
+    "subject": "Français",
+    "icon": "fa-comments",
+    "color": "#9d00ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/Le-Discours-indirect.pdf"
+  },
+  {
+    "title": "Le Texte Narratif",
+    "subject": "Français",
+    "icon": "fa-file-lines",
+    "color": "#9d00ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/Le-Texte-Narratif.pdf"
+  },
+  {
+    "title": "Les Adjectifs de colours",
+    "subject": "Français",
+    "icon": "fa-palette",
+    "color": "#9d00ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/Les-Adjectifs-de-couleurs.pdf"
+  },
+  {
+    "title": "Les classes de mots",
+    "subject": "Français",
+    "icon": "fa-list-check",
+    "color": "#9d00ff",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/Les-classes-de-mots.pdf"
+  },
+  {
+    "title": "La tectonique des plaques",
+    "subject": "SVT (العلوم)",
+    "icon": "fa-earth-americas",
+    "color": "#00ff88",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/cours-La-tectonique-des-plaques-%E2%80%8B%E2%80%8B2college-1.pdf"
+  },
+  {
+    "title": "Les séismes",
+    "subject": "SVT (العلوم)",
+    "icon": "fa-house-crack",
+    "color": "#00ff88",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/cours-Les-seismes-%E2%80%8B%E2%80%8B2college-1.pdf"
+  },
+  {
+    "title": "Les volcans",
+    "subject": "SVT (العلوم)",
+    "icon": "fa-volcano",
+    "color": "#00ff88",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/cours-Les-volcans-%E2%80%8B%E2%80%8B2college-1.pdf"
+  },
+  {
+    "title": "La formation des chaînes de montagnes",
+    "subject": "SVT (العلوم)",
+    "icon": "fa-mountain",
+    "color": "#00ff88",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/cours-La-formation-des-chaines-de-montagnes-%E2%80%8B%E2%80%8B2college-1.pdf"
+  },
+  {
+    "title": "Les déformations tectoniques",
+    "subject": "SVT (العلوم)",
+    "icon": "fa-wave-square",
+    "color": "#00ff88",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/cours-Les-deformations-tectoniques-%E2%80%8B%E2%80%8B2college-1.pdf"
+  },
+  {
+    "title": "La formation des roches magmatiques",
+    "subject": "SVT (العلوم)",
+    "icon": "fa-gem",
+    "color": "#00ff88",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/cours-La-formation-des-roches-magmatiques-%E2%80%8B%E2%80%8B2college-1.pdf"
+  },
+  {
+    "title": "La reproduction chez les animals",
+    "subject": "SVT (العلوم)",
+    "icon": "fa-dna",
+    "color": "#00ff88",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/01/cours-La-reproduction-chez-les-animaux-%E2%80%8B%E2%80%8B2college-1.pdf"
+  },
+  {
+    "title": "مجموع وفرق عددين جذريين (تمارين)",
+    "subject": "تمارين و فروض",
+    "icon": "fa-file-pen",
+    "color": "#ff0055",
+    "url": "https://moutamadris.ma/wp-content/uploads/2019/11/exercices-mat-2college-3.pdf"
+  },
+  {
+    "title": "الفرض رقم 1 - د1",
+    "subject": "تمارين و فروض",
+    "icon": "fa-file-circle-question",
+    "color": "#ff0055",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/05/devoir-1-math-2college-1er-semestre-sections-internationales-option-francais-modele-5.pdf"
+  },
+  {
+    "title": "الفرض رقم 2 - د1",
+    "subject": "تمارين و فروض",
+    "icon": "fa-file-circle-question",
+    "color": "#ff0055",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/05/devoir-2-math-2college-1er-semestre-sections-internationales-option-francais-modele-6.pdf"
+  },
+  {
+    "title": "الفرض رقم 3 - د1",
+    "subject": "تمارين و فروض",
+    "icon": "fa-file-circle-question",
+    "color": "#ff0055",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/05/devoir-3-math-2college-1er-semestre-sections-internationales-option-francais-modele-4.pdf"
+  },
+  {
+    "title": "الفرض رقم 1 - د2",
+    "subject": "تمارين و فروض",
+    "icon": "fa-file-circle-question",
+    "color": "#ff0055",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/05/devoir-1-math-2college-2nd-semestre-sections-internationales-option-francais-modele-4.pdf"
+  },
+  {
+    "title": "الفرض رقم 2 - د2",
+    "subject": "تمارين و فروض",
+    "icon": "fa-file-circle-question",
+    "color": "#ff0055",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/05/devoir-2-math-2college-2nd-semestre-sections-internationales-option-francais-modele-2.pdf"
+  },
+  {
+    "title": "الفرض رقم 3 - د2",
+    "subject": "تمارين و فروض",
+    "icon": "fa-file-circle-question",
+    "color": "#ff0055",
+    "url": "https://moutamadris.ma/wp-content/uploads/2022/05/devoir-3-math-2college-2nd-semestre-sections-internationales-option-francais-modele-2.pdf"
   }
 ]
