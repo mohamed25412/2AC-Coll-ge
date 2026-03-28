@@ -1,12 +1,10 @@
 {
-  "lessons": [
-    { "id": 1, "title": "تقديم الأعداد الجذرية", "subject": "Math", "icon": "fa-square-root-variable", "color": "#00f2ff", "size": "1.2 MB", "url": "math1.pdf" },
-    { "id": 2, "title": "القوى والعمليات", "subject": "Math", "icon": "fa-superscript", "color": "#00f2ff", "size": "2.1 MB", "url": "math2.pdf" },
-    { "id": 3, "title": "الهواء من حولنا", "subject": "Physics", "icon": "fa-wind", "color": "#7000ff", "size": "1.8 MB", "url": "phys1.pdf" },
-    { "id": 4, "title": "L'adjectif qualificatif", "subject": "French", "icon": "fa-language", "color": "#ff007f", "size": "0.9 MB", "url": "fr1.pdf" }
+  "apps": [
+    { "platform": "Android", "icon": "fa-android", "link": "#", "desc": "النسخة الكاملة APK" },
+    { "platform": "Windows", "icon": "fa-windows", "link": "#", "desc": "نسخة الحاسوب EXE" }
   ],
-  "exercises": [
-    { "id": 501, "title": "سلسلة تمارين الجذور", "subject": "Math", "difficulty": "متوسط", "status": "جديد" },
-    { "id": 502, "title": "فروض الفيزياء - الدورة 1", "subject": "Physics", "difficulty": "صعب", "status": "مهم" }
+  "lessons": [
+    { "id": 1, "title": "الجذور المربعة", "subject": "الرياضيات", "icon": "fa-square-root-alt", "color": "#00f2ff", "url": "math1.pdf" },
+    { "id": 2, "title": "L'adjectif", "subject": "Français", "icon": "fa-language", "color": "#ff007f", "url": "fr1.pdf" }
   ]
 }
