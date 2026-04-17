@@ -1,0 +1,18 @@
+[
+  {
+    "id": "notes",
+    "name": "مذكرتي",
+    "description": "دون ملاحظاتك الدراسية لكل مادة وحفظها",
+    "icon": "notes",
+    "url": "https://mohamed25412.github.io/2AC-Coll-ge/addons/notes_data.zip",
+    "size": "1.2 MB"
+  },
+  {
+    "id": "alarm",
+    "name": "منبه المذاكرة",
+    "description": "نظم وقتك مع منبه مخصص للمراجعة",
+    "icon": "alarm",
+    "url": "https://mohamed25412.github.io/2AC-Coll-ge/addons/alarm_data.zip",
+    "size": "0.8 MB"
+  }
+]
