@@ -2,9 +2,9 @@
     "banner_message": "welcome ZTE to my app 2AC Collège 😊",
     "banner_enabled": true,
     "cache_version": 1776637279062,
-    "lockdown_enabled": true,
+    "lockdown_enabled": false,
     "lockdown_message": "SYSTEM UNDER MAINTENANCE. PLEASE CHECK LATER.",
-    "maintenance_enabled": true,
-    "is_maintenance": true,
+    "maintenance_enabled": false,
+    "is_maintenance": false,
     "maintenance_message": "عذراً، التطبيق حالياً في صيانة دورية. سنعود قريباً."
 }
