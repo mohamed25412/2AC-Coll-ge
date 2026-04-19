@@ -1,5 +1,7 @@
 {
     "banner_message": "welcome ZTE to my app 2AC Collège 😊",
     "banner_enabled": true,
-    "cache_version": 1776637279062
+    "cache_version": 1776637279062,
+    "lockdown_enabled": true,
+    "lockdown_message": "SYSTEM UNDER MAINTENANCE. PLEASE CHECK LATER."
 }
