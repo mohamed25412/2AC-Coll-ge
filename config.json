@@ -1,6 +1,6 @@
 {
     "banner_message": "امي ",
-    "banner_enabled": true,
+    "banner_enabled": false,
     "cache_version": 1776637279062,
     "lockdown_enabled": false,
     "lockdown_message": "SYSTEM UNDER MAINTENANCE. PLEASE CHECK LATER.",
