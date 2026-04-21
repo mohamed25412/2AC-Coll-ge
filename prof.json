@@ -1,14 +1,9 @@
 {
-  "professors": {
-    "cea6a7dc-69b6-466f-909a-1d96e8f42b0a": {
-      "email": "adera5610@gmail.com",
-      "id": "cea6a7dc-69b6-466f-909a-1d96e8f42b0a",
-      "isVerified": false,
-      "name": "ali",
-      "password": "ali123",
-      "subject": "الرياضيات",
-      "username": "ali123",
-      "verificationCode": ""
+    "professors": {
+        "cea6a7dc-69b6-466f-909a-1d96e8f42b0a": {
+            "id": "cea6a7dc-69b6-466f-909a-1d96e8f42b0a",
+            "name": "ali",
+            "verificationCode": "703509"
+        }
     }
-  }
 }
