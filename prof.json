@@ -1,0 +1,16 @@
+{
+  "professors": {
+    "": { 
+      "id": "",
+      "name": "",
+      "isVerified": false,
+      "verificationCode": ""
+    },
+    "": {
+      "id": "",
+      "name": "",
+      "isVerified": true,
+      "verificationCode": ""
+    }
+  }
+}
