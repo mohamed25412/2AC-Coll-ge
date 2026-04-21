@@ -1,14 +1,9 @@
 {
-  "professors": {
-    "e6b09193-68e8-4b81-bdb3-d17ee4d9ccbf": {
-      "email": "mohamedali2008cah@gmail.com",
-      "id": "e6b09193-68e8-4b81-bdb3-d17ee4d9ccbf",
-      "isVerified": false,
-      "name": "mohamed",
-      "password": "moha1234",
-      "subject": "الرياضيات",
-      "username": "moha123",
-      "verificationCode": ""
+    "professors": {
+        "e6b09193-68e8-4b81-bdb3-d17ee4d9ccbf": {
+            "id": "e6b09193-68e8-4b81-bdb3-d17ee4d9ccbf",
+            "name": "mohamed",
+            "verificationCode": "658528"
+        }
     }
-  }
 }
