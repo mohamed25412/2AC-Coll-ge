@@ -1,9 +1,1 @@
-{
-    "professors": {
-        "d2533199-ac08-4246-a698-b47c96c21105": {
-            "id": "d2533199-ac08-4246-a698-b47c96c21105",
-            "name": "mohamed",
-            "verificationCode": "129157"
-        }
-    }
-}
+{"professors":{"d2533199-ac08-4246-a698-b47c96c21105":{"id":"d2533199-ac08-4246-a698-b47c96c21105","isVerified":true,"name":"mohamed","verificationCode":""}}}
