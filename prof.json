@@ -1,1 +1,9 @@
-{"professors":{"06f26550-35ba-4cec-b19c-d59ace8f1274":{"email":"mohamedali2008cah@gmail.com","id":"06f26550-35ba-4cec-b19c-d59ace8f1274","isVerified":false,"name":"mohamed","password":"moha1234@1","subject":"math","username":"moha1234","verificationCode":""}}}
+{
+    "professors": {
+        "06f26550-35ba-4cec-b19c-d59ace8f1274": {
+            "id": "06f26550-35ba-4cec-b19c-d59ace8f1274",
+            "name": "mohamed",
+            "verificationCode": "512900"
+        }
+    }
+}
