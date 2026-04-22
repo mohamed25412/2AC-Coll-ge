@@ -1,9 +1,11 @@
 {
-    "professors": {
-        "72bdde14-2c79-4c9d-90c1-b17f367555be": {
-            "id": "72bdde14-2c79-4c9d-90c1-b17f367555be",
-            "name": "ali",
-            "verificationCode": "781396"
-        }
+  "professors": {
+    "72bdde14-2c79-4c9d-90c1-b17f367555be": {
+      "id": "72bdde14-2c79-4c9d-90c1-b17f367555be",
+      "isVerified": true,
+      "name": "ali",
+      "subject": "",
+      "verificationCode": ""
     }
+  }
 }
