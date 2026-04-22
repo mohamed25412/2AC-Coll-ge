@@ -1,24 +1,25 @@
 {
-    "professors": {
-        "99dacf9c-8b3e-407d-a2d8-b343a87f26c0": {
-            "id": "99dacf9c-8b3e-407d-a2d8-b343a87f26c0",
-            "name": "mohamed",
-            "isVerified": true
-        },
-        "ab67c728-b478-4964-bba6-1c4fd26ebb99": {
-            "id": "ab67c728-b478-4964-bba6-1c4fd26ebb99",
-            "name": "moha",
-            "isVerified": true
-        },
-        "66ca9d37-32b9-4d5b-be22-f1f4224c45ed": {
-            "id": "66ca9d37-32b9-4d5b-be22-f1f4224c45ed",
-            "name": "moha",
-            "isVerified": true
-        },
-        "4e598e79-43fe-478a-abf6-0d6598b910c2": {
-            "id": "4e598e79-43fe-478a-abf6-0d6598b910c2",
-            "name": "moha",
-            "verificationCode": "671235"
-        }
+  "professors": {
+    "99dacf9c-8b3e-407d-a2d8-b343a87f26c0": {
+      "id": "99dacf9c-8b3e-407d-a2d8-b343a87f26c0",
+      "isVerified": true,
+      "name": "mohamed"
+    },
+    "ab67c728-b478-4964-bba6-1c4fd26ebb99": {
+      "id": "ab67c728-b478-4964-bba6-1c4fd26ebb99",
+      "isVerified": true,
+      "name": "moha"
+    },
+    "66ca9d37-32b9-4d5b-be22-f1f4224c45ed": {
+      "id": "66ca9d37-32b9-4d5b-be22-f1f4224c45ed",
+      "isVerified": true,
+      "name": "moha"
+    },
+    "4e598e79-43fe-478a-abf6-0d6598b910c2": {
+      "id": "4e598e79-43fe-478a-abf6-0d6598b910c2",
+      "isVerified": true,
+      "name": "moha",
+      "verificationCode": ""
     }
+  }
 }
