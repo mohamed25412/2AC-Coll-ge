@@ -1,1 +1,14 @@
-
+{
+  "professors": {
+    "99dacf9c-8b3e-407d-a2d8-b343a87f26c0": {
+      "email": "mohamedali2008cah@gmail.com",
+      "id": "99dacf9c-8b3e-407d-a2d8-b343a87f26c0",
+      "isVerified": false,
+      "name": "mohamed",
+      "password": "moha1121",
+      "subject": "الاجتماعيات",
+      "username": "moha1121",
+      "verificationCode": ""
+    }
+  }
+}
