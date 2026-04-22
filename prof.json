@@ -1,20 +1,14 @@
 {
-  "professors": {
-    "cea6a7dc-69b6-466f-909a-1d96e8f42b0a": {
-      "id": "cea6a7dc-69b6-466f-909a-1d96e8f42b0a",
-      "isVerified": true,
-      "name": "ali",
-      "verificationCode": ""
-    },
-    "41e5d67e-128c-4204-a47a-fb83eb9b5daf": {
-      "email": "mohamedali2008cah@gmail.com",
-      "id": "41e5d67e-128c-4204-a47a-fb83eb9b5daf",
-      "isVerified": false,
-      "name": "mohamed",
-      "password": "moha1234",
-      "subject": "الرياضيات",
-      "username": "moha1234",
-      "verificationCode": ""
+    "professors": {
+        "cea6a7dc-69b6-466f-909a-1d96e8f42b0a": {
+            "id": "cea6a7dc-69b6-466f-909a-1d96e8f42b0a",
+            "name": "ali",
+            "isVerified": true
+        },
+        "41e5d67e-128c-4204-a47a-fb83eb9b5daf": {
+            "id": "41e5d67e-128c-4204-a47a-fb83eb9b5daf",
+            "name": "mohamed",
+            "verificationCode": "276386"
+        }
     }
-  }
 }
