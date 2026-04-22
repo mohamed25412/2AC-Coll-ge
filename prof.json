@@ -1,15 +1,1 @@
-{
-  "professors": {
-    "cea6a7dc-69b6-466f-909a-1d96e8f42b0a": {
-      "id": "cea6a7dc-69b6-466f-909a-1d96e8f42b0a",
-      "isVerified": true,
-      "name": "ali"
-    },
-    "41e5d67e-128c-4204-a47a-fb83eb9b5daf": {
-      "id": "41e5d67e-128c-4204-a47a-fb83eb9b5daf",
-      "isVerified": true,
-      "name": "mohamed",
-      "verificationCode": ""
-    }
-  }
-}
+
