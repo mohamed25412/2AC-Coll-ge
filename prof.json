@@ -10,6 +10,16 @@
       "isVerified": true,
       "name": "moha",
       "verificationCode": ""
+    },
+    "66ca9d37-32b9-4d5b-be22-f1f4224c45ed": {
+      "email": "mohamedali2008cah@gmail.com",
+      "id": "66ca9d37-32b9-4d5b-be22-f1f4224c45ed",
+      "isVerified": false,
+      "name": "moha",
+      "password": "moha",
+      "subject": "العلوم",
+      "username": "moha",
+      "verificationCode": ""
     }
   }
 }
