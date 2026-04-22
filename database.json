@@ -1,20 +1,3 @@
 {
-  "users": {
-    "d2465573-1e09-4194-9d78-6bd4136e3068": {
-      "email": "mohamedali2008cah@gmail.com",
-      "id": "d2465573-1e09-4194-9d78-6bd4136e3068",
-      "name": "mohamed ali",
-      "password": "moha",
-      "subject": "العلوم",
-      "username": "moha"
-    },
-    "8d51867c-78cc-4ec9-90ee-a1f9dd0a0a03": {
-      "email": "adera5610@gmail.com",
-      "id": "8d51867c-78cc-4ec9-90ee-a1f9dd0a0a03",
-      "name": "ali",
-      "password": "moha1234",
-      "subject": "العلوم",
-      "username": "ali25413"
-    }
-  }
+  "users": {}
 }
