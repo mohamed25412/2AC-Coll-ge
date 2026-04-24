@@ -1,11 +1,9 @@
 {
-  "professors": {
-    "08a96e23-9c65-4c2b-ab39-a22e4e4f15da": {
-      "id": "08a96e23-9c65-4c2b-ab39-a22e4e4f15da",
-      "isVerified": false,
-      "name": "bb",
-      "subject": "الرياضيات",
-      "verificationCode": ""
+    "professors": {
+        "PR177_0C94": {
+            "id": "PR177_0C94",
+            "name": "bb",
+            "verificationCode": "357695"
+        }
     }
-  }
 }
