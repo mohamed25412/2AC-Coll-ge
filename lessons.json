@@ -52,5 +52,15 @@
     "exams": [],
     "exercises": [],
     "lessons": []
+  },
+  "التكنولوجيا": {
+    "exams": [],
+    "exercises": [],
+    "lessons": [
+      {
+        "name": ".",
+        "url": "https://www.myapp.ma/file.pdf"
+      }
+    ]
   }
 }
