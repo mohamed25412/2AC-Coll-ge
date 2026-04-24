@@ -2,9 +2,9 @@
     "banner_message": "امي ",
     "banner_enabled": false,
     "cache_version": 1776637279062,
-    "lockdown_enabled": false,
+    "lockdown_enabled": true,
     "lockdown_message": "SYSTEM UNDER MAINTENANCE. PLEASE CHECK LATER.",
-    "maintenance_enabled": false,
-    "is_maintenance": false,
+    "maintenance_enabled": true,
+    "is_maintenance": true,
     "maintenance_message": "عذراً، التطبيق حالياً في صيانة دورية. سنعود قريباً."
 }
