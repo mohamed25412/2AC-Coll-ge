@@ -1,16 +1,38 @@
 {
     "users": {
-        "PR177_0C94": {
-            "id": "PR177_0C94",
-            "name": "bb"
-        },
         "a036639a-4519-495d-a2e3-73525a438b9e": {
             "id": "a036639a-4519-495d-a2e3-73525a438b9e",
-            "name": "mohamed"
+            "name": "mohamed",
+            "email": "No Email",
+            "password": "",
+            "subject": "General",
+            "username": "",
+            "pendingDeletions": [],
+            "lastLogin": "Active Now",
+            "status": "Active",
+            "stats": {
+                "lessons": 0,
+                "exercises": 0,
+                "exams": 0,
+                "totalContributions": 0
+            }
         },
         "ef489270-edfe-4ab0-bf6b-df202700c30d": {
             "id": "ef489270-edfe-4ab0-bf6b-df202700c30d",
-            "name": "moha"
+            "name": "moha",
+            "email": "No Email",
+            "password": "",
+            "subject": "General",
+            "username": "",
+            "pendingDeletions": [],
+            "lastLogin": "Active Now",
+            "status": "Active",
+            "stats": {
+                "lessons": 0,
+                "exercises": 0,
+                "exams": 0,
+                "totalContributions": 0
+            }
         },
         "d093f031-642b-42af-91d5-553023734d52": {
             "id": "d093f031-642b-42af-91d5-553023734d52",
@@ -19,7 +41,15 @@
             "password": "ali",
             "subject": "الرياضيات",
             "username": "ali",
-            "status": "Suspended"
+            "pendingDeletions": [],
+            "lastLogin": "Active Now",
+            "status": "Suspended",
+            "stats": {
+                "lessons": 0,
+                "exercises": 0,
+                "exams": 0,
+                "totalContributions": 0
+            }
         }
     }
 }
