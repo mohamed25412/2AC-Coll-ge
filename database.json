@@ -6,33 +6,7 @@
             "lastLogin": "Active Now",
             "name": "ali",
             "password": "ali",
-            "pendingDeletions": [
-                {
-                    "category": "درس",
-                    "itemTitle": "المعادلات",
-                    "timestamp": 1777055649689
-                },
-                {
-                    "category": "درس",
-                    "itemTitle": "المعادلات",
-                    "timestamp": 1777055655644
-                },
-                {
-                    "category": "درس",
-                    "itemTitle": "المعادلات",
-                    "timestamp": 1777055661607
-                },
-                {
-                    "category": "درس",
-                    "itemTitle": "الاعداد الجذرية ",
-                    "timestamp": 1777055662889
-                },
-                {
-                    "category": "درس",
-                    "itemTitle": "المعادلات",
-                    "timestamp": 1777055670685
-                }
-            ],
+            "pendingDeletions": [],
             "stats": {
                 "exams": 0,
                 "exercises": 0,
