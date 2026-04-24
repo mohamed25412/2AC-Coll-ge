@@ -5,6 +5,7 @@
       "id": "983b35ea-1c21-4098-82b5-6bc5f626483c",
       "name": "mohamed ali",
       "password": "moha1234",
+      "pendingDeletions": [],
       "subject": "الإنجليزية",
       "username": "mohamed25412"
     },
@@ -13,8 +14,18 @@
       "id": "72bdde14-2c79-4c9d-90c1-b17f367555be",
       "name": "ali",
       "password": "ali0000",
+      "pendingDeletions": [],
       "subject": "الرياضيات",
       "username": "ali0000"
+    },
+    "e950ece8-15d0-4052-83e4-93b26770d136": {
+      "email": "moadagnaw481@gmail.com",
+      "id": "e950ece8-15d0-4052-83e4-93b26770d136",
+      "name": "mohamed",
+      "password": "m1",
+      "pendingDeletions": [],
+      "subject": "الإنجليزية",
+      "username": "m1"
     }
   }
 }
