@@ -1,18 +1,16 @@
 {
-  "professors": {
-    "PR177_0C94": {
-      "id": "08a96e23-9c65-4c2b-ab39-a22e4e4f15da",
-      "isVerified": true,
-      "name": "bb",
-      "subject": "",
-      "verificationCode": "357695"
-    },
-    "a036639a-4519-495d-a2e3-73525a438b9e": {
-      "id": "a036639a-4519-495d-a2e3-73525a438b9e",
-      "isVerified": false,
-      "name": "mohamed",
-      "subject": "التكنولوجيا",
-      "verificationCode": ""
+    "professors": {
+        "PR177_0C94": {
+            "id": "08a96e23-9c65-4c2b-ab39-a22e4e4f15da",
+            "name": "bb",
+            "isVerified": true,
+            "verificationCode": "357695"
+        },
+        "a036639a-4519-495d-a2e3-73525a438b9e": {
+            "id": "a036639a-4519-495d-a2e3-73525a438b9e",
+            "name": "mohamed",
+            "isVerified": true,
+            "verificationCode": "686799"
+        }
     }
-  }
 }
