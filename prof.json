@@ -1,39 +1,32 @@
 {
-  "professors": {
-    "72bdde14-2c79-4c9d-90c1-b17f367555be": {
-      "id": "72bdde14-2c79-4c9d-90c1-b17f367555be",
-      "isVerified": true,
-      "name": "ali",
-      "subject": "",
-      "verificationCode": ""
-    },
-    "e950ece8-15d0-4052-83e4-93b26770d136": {
-      "id": "e950ece8-15d0-4052-83e4-93b26770d136",
-      "isVerified": true,
-      "name": "mohamed",
-      "subject": "",
-      "verificationCode": ""
-    },
-    "PR160_27F1": {
-      "id": "PR160_27F1",
-      "isVerified": true,
-      "name": "moha",
-      "subject": "",
-      "verificationCode": "981406"
-    },
-    "PR414_F898": {
-      "id": "PR414_F898",
-      "isVerified": true,
-      "name": " cad324d2-488f-4ec9-b5e3-e02a26080dfa",
-      "subject": "",
-      "verificationCode": "749378"
-    },
-    "8804880f-5ad0-4e4a-8bf5-328da32110f5": {
-      "id": "8804880f-5ad0-4e4a-8bf5-328da32110f5",
-      "isVerified": false,
-      "name": "h",
-      "subject": "التربية الإسلامية",
-      "verificationCode": ""
+    "professors": {
+        "72bdde14-2c79-4c9d-90c1-b17f367555be": {
+            "id": "72bdde14-2c79-4c9d-90c1-b17f367555be",
+            "name": "ali",
+            "isVerified": true
+        },
+        "e950ece8-15d0-4052-83e4-93b26770d136": {
+            "id": "e950ece8-15d0-4052-83e4-93b26770d136",
+            "name": "mohamed",
+            "isVerified": true
+        },
+        "PR160_27F1": {
+            "id": "PR160_27F1",
+            "name": "moha",
+            "isVerified": true,
+            "verificationCode": "981406"
+        },
+        "PR414_F898": {
+            "id": "PR414_F898",
+            "name": " cad324d2-488f-4ec9-b5e3-e02a26080dfa",
+            "isVerified": true,
+            "verificationCode": "749378"
+        },
+        "PR500_7FF6": {
+            "id": "PR500_7FF6",
+            "name": "h",
+            "isVerified": true,
+            "verificationCode": "901257"
+        }
     }
-  }
 }
