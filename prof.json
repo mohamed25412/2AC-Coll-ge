@@ -1,18 +1,14 @@
 {
-  "professors": {
-    "72bdde14-2c79-4c9d-90c1-b17f367555be": {
-      "id": "72bdde14-2c79-4c9d-90c1-b17f367555be",
-      "isVerified": true,
-      "name": "ali",
-      "subject": "",
-      "verificationCode": ""
-    },
-    "e950ece8-15d0-4052-83e4-93b26770d136": {
-      "id": "e950ece8-15d0-4052-83e4-93b26770d136",
-      "isVerified": false,
-      "name": "mohamed",
-      "subject": "الإنجليزية",
-      "verificationCode": ""
+    "professors": {
+        "72bdde14-2c79-4c9d-90c1-b17f367555be": {
+            "id": "72bdde14-2c79-4c9d-90c1-b17f367555be",
+            "name": "ali",
+            "isVerified": true
+        },
+        "e950ece8-15d0-4052-83e4-93b26770d136": {
+            "id": "e950ece8-15d0-4052-83e4-93b26770d136",
+            "name": "mohamed",
+            "verificationCode": "890643"
+        }
     }
-  }
 }
