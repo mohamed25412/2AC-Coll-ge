@@ -23,7 +23,13 @@
       "id": "e950ece8-15d0-4052-83e4-93b26770d136",
       "name": "mohamed",
       "password": "m1",
-      "pendingDeletions": [],
+      "pendingDeletions": [
+        {
+          "category": "درس",
+          "itemTitle": "mmmm",
+          "timestamp": 1777046359297
+        }
+      ],
       "subject": "الإنجليزية",
       "username": "m1"
     }
