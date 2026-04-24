@@ -1,3 +1,13 @@
 {
-  "users": {}
+  "users": {
+    "08a96e23-9c65-4c2b-ab39-a22e4e4f15da": {
+      "email": "bb",
+      "id": "08a96e23-9c65-4c2b-ab39-a22e4e4f15da",
+      "name": "bb",
+      "password": "bb",
+      "pendingDeletions": [],
+      "subject": "الرياضيات",
+      "username": "bb"
+    }
+  }
 }
