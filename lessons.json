@@ -28,6 +28,10 @@
     ],
     "exercises": [
       {
+        "name": ".",
+        "url": "."
+      },
+      {
         "name": "exercices",
         "url": "https://www.fole.my/download/exercices/file.pdf"
       }
