@@ -8,10 +8,10 @@
       "password": "ali",
       "pendingDeletions": [],
       "stats": {
-        "exams": 0,
+        "exams": 1,
         "exercises": 1,
         "lessons": 1,
-        "totalContributions": 2
+        "totalContributions": 3
       },
       "status": "Active",
       "subject": "الرياضيات",
