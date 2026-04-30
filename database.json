@@ -6,7 +6,13 @@
       "lastLogin": "Active Now",
       "name": "ali",
       "password": "ali",
-      "pendingDeletions": [],
+      "pendingDeletions": [
+        {
+          "category": "درس",
+          "itemTitle": ".",
+          "timestamp": 1777582756383
+        }
+      ],
       "stats": {
         "exams": 2,
         "exercises": 1,
