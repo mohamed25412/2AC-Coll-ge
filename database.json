@@ -6,23 +6,7 @@
             "lastLogin": "Active Now",
             "name": "ali",
             "password": "ali",
-            "pendingDeletions": [
-                {
-                    "category": "درس",
-                    "itemTitle": ".",
-                    "timestamp": 1777582756383
-                },
-                {
-                    "category": "تمرين",
-                    "itemTitle": ".",
-                    "timestamp": 1777582760208
-                },
-                {
-                    "category": "فرض",
-                    "itemTitle": ".",
-                    "timestamp": 1777582762454
-                }
-            ],
+            "pendingDeletions": [],
             "stats": {
                 "exams": 2,
                 "exercises": 1,
