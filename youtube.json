@@ -1,1 +1,24 @@
-[]
+{
+  "الرياضيات": [
+    {
+      "title": "شرح درس القوى - الجزء الأول",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "title": "تمارين وحلول في الحساب العددي",
+      "url": "https://youtu.be/dQw4w9WgXcQ"
+    }
+  ],
+  "الفيزياء": [
+    {
+      "title": "الضوء من حولنا - تجارب تطبيقية",
+      "url": "https://www.youtube.com/watch?v=example1"
+    }
+  ],
+  "اللغة العربية": [
+    {
+      "title": "مراجعة شاملة لدروس الدورة الأولى",
+      "url": "https://www.youtube.com/watch?v=example2"
+    }
+  ]
+}
