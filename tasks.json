@@ -1,1 +1,22 @@
-
+[
+  {
+    "title": "تحميل 10 ملفات دراسية",
+    "type": "downloads",
+    "target": 10
+  },
+  {
+    "title": "الوصول إلى سلسلة نشاط 5 أيام",
+    "type": "streak",
+    "target": 5
+  },
+  {
+    "title": "جمع 200 نقطة XP إضافية",
+    "type": "points",
+    "target": 200
+  },
+  {
+    "title": "إكمال دراسة 4 دروس تعليمية",
+    "type": "lessons",
+    "target": 4
+  }
+]
